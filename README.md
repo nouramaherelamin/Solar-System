@@ -248,7 +248,7 @@ to start the exploration.
 
 ## 🎥 Project Demo
 
-[![Solar System Exploration 3D](https://img.youtube.com/vi/yEXbUar2L8o/maxresdefault.jpg)](https://youtu.be/yEXbUar2L8o)
+[![Solar System Exploration 3D](./Assets/solar-system-demo.jpg)](https://youtu.be/yEXbUar2L8o)
 
 **▶️ Watch the full project demonstration on YouTube**
 
