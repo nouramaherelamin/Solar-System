@@ -1,0 +1,19 @@
+﻿  $olar$ystem.cpp
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(339,9): error C2065: 'GL_TEXTURE_CUBE_MAP_POSITIVE_X': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(339,41): error C2065: 'GL_TEXTURE_CUBE_MAP_NEGATIVE_X': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(340,9): error C2065: 'GL_TEXTURE_CUBE_MAP_POSITIVE_Y': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(340,41): error C2065: 'GL_TEXTURE_CUBE_MAP_NEGATIVE_Y': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(341,9): error C2065: 'GL_TEXTURE_CUBE_MAP_POSITIVE_Z': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(341,41): error C2065: 'GL_TEXTURE_CUBE_MAP_NEGATIVE_Z': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(345,19): error C2065: 'GL_TEXTURE_CUBE_MAP': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(362,21): error C2065: 'GL_TEXTURE_CUBE_MAP': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(363,21): error C2065: 'GL_TEXTURE_CUBE_MAP': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(364,21): error C2065: 'GL_TEXTURE_CUBE_MAP': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(364,61): error C2065: 'GL_CLAMP_TO_EDGE': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(365,21): error C2065: 'GL_TEXTURE_CUBE_MAP': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(365,61): error C2065: 'GL_CLAMP_TO_EDGE': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(366,21): error C2065: 'GL_TEXTURE_CUBE_MAP': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(366,42): error C2065: 'GL_TEXTURE_WRAP_R': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(366,61): error C2065: 'GL_CLAMP_TO_EDGE': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(921,14): error C2065: 'GL_TEXTURE_CUBE_MAP': undeclared identifier
+C:\Users\NOUR SOFT\Downloads\$olar$ystem\$olar$ystem\$olar$ystem.cpp(922,19): error C2065: 'GL_TEXTURE_CUBE_MAP': undeclared identifier
